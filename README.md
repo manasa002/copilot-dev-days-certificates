@@ -1,6 +1,6 @@
 <div align="center">
 
-# GitHub Copilot Dev Days 2026 — Hyderabad
+# GitHub Copilot Dev Days 2026 Hyderabad - Certificates
 
 **Participation certificates for GitHub Copilot Dev Days 2026 – Microsoft, Hyderabad**
 
@@ -17,11 +17,17 @@
 
 ## About the Event
 
-**GitHub Copilot Dev Days** is a full-day hands-on event organised by [LearnAI Hyd](https://srisatyalokesh.is-a.dev) and hosted at **Microsoft, Hyderabad** — bringing together students, developers, and tech professionals to explore AI-assisted software development with GitHub Copilot.
+**GitHub Copilot Dev Days** is a full-day hands-on event organised by [Satya K](https://srisatyalokesh.is-a.dev) and hosted at **Microsoft, Hyderabad** - bringing together students, developers, and tech professionals to explore AI-assisted software development with GitHub Copilot.
 
 Hosted by **Sri Satya Lokesh K.**, the day featured keynotes from industry practitioners, deep-dive sessions on Copilot in the CLI and VS Code, Agentic Workflows and a live hands-on workshop where attendees integrated AI into their real workflows.
 
-Every attendee gets a unique URL with a QR code. Scanning it opens their certificate instantly — no login, no app required.
+**Missed the event?** No worries — all the workshops are available online. Work through them in order to get the full experience, exactly as it happened on the day:
+
+> 🌐 **[copilot-dev-days.github.io →](https://copilot-dev-days.github.io/)**
+>
+> Start from **Get Started with GitHub Copilot** workshop and go through each one sequentially — by the end you'll have covered everything taught at the event, from Copilot basics to agentic workflows and production-grade AI development.
+
+Every attendee gets a unique URL with a QR code. Scanning it opens their certificate instantly - no login, no app required.
 
 ---
 
@@ -29,11 +35,11 @@ Every attendee gets a unique URL with a QR code. Scanning it opens their certifi
 
 > **Quick start:** Fork → add your JSON file → open a PR → get your certificate URL once merged.
 
-### Step 1 — Fork this repository
+### Step 1 - Fork this repository
 
 Click **Fork** (top-right of this page) to create a copy under your GitHub account.
 
-### Step 2 — Convert your email to a file ID
+### Step 2 - Convert your email to a file ID
 
 Your filename must be derived from the email you registered with. Apply these rules in order:
 
@@ -46,7 +52,7 @@ Your filename must be derived from the email you registered with. Apply these ru
 
 **Your filename:** `data/jane-doe-at-example-com.json`
 
-### Step 3 — Create your data file
+### Step 3 - Create your data file
 
 In your fork, navigate to the `data/` folder and create the file from Step 2 with this content:
 
@@ -72,17 +78,17 @@ In your fork, navigate to the `data/` folder and create the file from Step 2 wit
 | `workshop` | ✅ | Keep as-is: `Github Copilot Dev Days 2026 - Microsoft, Hyderabad` |
 | `date` | ✅ | Keep as-is: `April 18, 2026` |
 | `date_iso` | ✅ | Keep as-is: `2026-04-18` |
-| `description` | ✅ | One sentence describing what you learned — personalise this |
+| `description` | ✅ | One sentence describing what you learned - personalise this |
 
 > **Note:** Do not copy sample data as-is. Update `certificate_id`, `name`, `email`, and `description` with your own details.
 
-### Step 4 — Open a Pull Request
+### Step 4 - Open a Pull Request
 
 Go back to the **original** repository (not your fork) and open a Pull Request from your fork's `main` branch.
 
-The PR description will auto-fill with a checklist — complete every item and submit. The organizer will review and merge within a few days.
+The PR description will auto-fill with a checklist - complete every item and submit. The organizer will review and merge within a few days.
 
-### Step 5 — Get your certificate
+### Step 5 - Get your certificate
 
 After your PR is merged, your certificate is live at:
 
@@ -124,7 +130,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on claiming your certifica
 | Certificate PDF | [html2pdf.js](https://github.com/eKoopmans/html2pdf.js) |
 | QR Code | [qrcode.js](https://github.com/davidshimjs/qrcodejs) |
 | Fonts | Google Fonts (Playfair Display · Lato) |
-| Hosting | GitHub Pages — $0/month |
+| Hosting | GitHub Pages - $0/month |
 
 ---
 
